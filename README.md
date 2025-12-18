@@ -9,3 +9,5 @@ Insights and recommendations are provided on the following key areas:
 * **Calculates adjusted final sale prices** after discounts to provide a more accurate view of actual revenue earned.
 * **Analyzes profit by quantity sold** to determine how much profit is generated per individual unit.
 * **Evaluates revenue per unit** by dividing total sales by quantity sold, supporting data-driven pricing and inventory decisions.
+
+View the SQL script containing all calculated columns used in this analysis [here]
