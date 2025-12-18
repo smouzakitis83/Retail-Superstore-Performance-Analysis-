@@ -10,4 +10,4 @@ Insights and recommendations are provided on the following key areas:
 * **Analyzes profit by quantity sold** to determine how much profit is generated per individual unit.
 * **Evaluates revenue per unit** by dividing total sales by quantity sold, supporting data-driven pricing and inventory decisions.
 
-View the SQL script containing all calculated columns used in this analysis [here]
+View the SQL script containing all calculated columns used in this analysis [here](https://github.com/smouzakitis83/Retail-Superstore-Performance-Analysis-/blob/main/SuperStore_Calc.SQL)
