@@ -29,3 +29,17 @@ The following graph shows profit by subcategory, highlighting tables as the leas
 The visualization displays product quantities by state, showing California as the top state by quantity.
 
 <img width="680" height="391" alt="Screenshot 2025-12-19 120356" src="https://github.com/user-attachments/assets/44071e95-2e8e-40ea-8c2f-5229c0470ece" />
+
+# Executive Summary
+This analysis breaks down shipping, sales, and profitability in a clear and easy-to-understand way. The Excel pivot charts compare shipping costs by shipping class and region, show how product quantities vary by region and category, highlight which subcategories generate the most profit, and display product quantities sold by state. These views make it easier to see where costs are higher, where demand is strongest, and which products perform best.
+
+The Tableau dashboard brings everything together with interactive visuals and key performance indicators, including Sales, Profit, and Profit Margin %. Users can explore profit margins by subcategory, profit by category, revenue lost due to discounts, and a map showing sales and profit margin by state. Together, these insights help stakeholders quickly understand performance trends and identify opportunities to improve pricing, discount strategies, and shipping decisions.
+
+Below is the overview page from the Tableau dashboard. The entire dashboard can be viewed and interacted with [here](https://public.tableau.com/app/profile/stamatios.mouzakitis/viz/SuperStore_Sales_Dashboard_17664161596300/Dashboard1)
+
+<img width="680" height="391" alt="Screenshot 2025-12-22 123505" src="https://github.com/user-attachments/assets/fed03286-64d6-41aa-9880-7a9db99a9c75" />
+
+## Sales Trends
+
+
+
