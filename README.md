@@ -40,6 +40,22 @@ Below is the overview page from the Tableau dashboard. The entire dashboard can 
 <img width="680" height="391" alt="Screenshot 2025-12-22 123505" src="https://github.com/user-attachments/assets/fed03286-64d6-41aa-9880-7a9db99a9c75" />
 
 ## Sales Trends
+* **Standard Class shipping** is the most expensive option across regions, while Same Day shipping consistently shows the lowest shipping costs.
+
+* **Office Supplies** have the highest product quantities across all regions, indicating strong and consistent demand compared to Furniture and Technology.
+
+* **Tables are the least profitable** subcategory, showing negative profit overall, with especially poor performance in the East Coast region.
+
+* **California** leads all states in product quantity sold, making it the highest-volume state in the dataset.
+
+## Recommendations
+* **Take a closer look at Standard Class shipping** since it’s driving the highest costs. Shift orders to cheaper options or limit Standard Class to higher-margin products.
+
+* **Lean into Office Supplies** which sell the most across all regions, by keeping strong inventory levels and avoiding heavy discounting that could effect their healthy performance.
+
+* **Fix or rethink poorly performing products** like Tables, Bookcases, and Furnishings by reviewing pricing and discounts, and consider reducing or stopping promotions in regions where they consistently lose money.
+
+* **Be more selective with discounts** on Furniture and Technology, as they’re causing significant revenue loss; use targeted promotions instead of broad discounts to protect profit.
 
 
 
