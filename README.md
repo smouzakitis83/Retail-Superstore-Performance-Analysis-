@@ -1,5 +1,5 @@
 # Retail Supermarket
-This case study analyzes sales performance for a multi-location retail supermarket operating across the United States. The project focuses on understanding revenue, profit, discount impact, and sales volume across products and stores. Using cleaned and structured data, calculated fields were created to evaluate true profitability and revenue loss from discounts. The insights support data-driven decisions for pricing, and overall business strategy.
+This case study analyzes sales performance for a multi-location retail supermarket operating across the United States. The goal of the project was to present clean, clear, and concise insights that help stakeholders make data-driven decisions. The analysis focuses on revenue, profit, discount impact, and sales volume across products and stores. Using cleaned and structured data, calculated fields were created to evaluate true profitability and revenue loss from discounts, supporting informed pricing and overall business strategy decisions.
 
 This specific data was provided by Kaggle and can be viewed [here](https://www.kaggle.com/datasets/roopacalistus/superstore).
 
