@@ -7,8 +7,8 @@ Insights and recommendations are provided on the following key areas:
 * **Identifies top and low performing products** by analyzing profit and profit per unit sold to highlight true profitability beyond total sales.
 * **Quantifies revenue lost due to discounts** and evaluates how discounting impacts final sale price and overall margins.
 * **Calculates adjusted final sale prices** after discounts to provide a more accurate view of actual revenue earned.
-* **Analyzes profit by quantity sold** to determine how much profit is generated per individual unit.
-* **Evaluates revenue per unit** by dividing total sales by quantity sold, supporting data-driven pricing and inventory decisions.
+* **Analyzes profit by quantity sold** to determine how much profit is generated per sub-catagory.
+* **Evaluates revenue per sub-catagory** by dividing total sales by quantity sold, supporting data-driven pricing and inventory decisions.
 
 View the SQL script containing all calculated columns used in this analysis [here](https://github.com/smouzakitis83/Retail-Superstore-Performance-Analysis-/blob/main/SuperStore_Calc.SQL)
 
